@@ -11,6 +11,6 @@ public class Main {
         } else {
             bonus = 0;
         }
-        System.out.println("Баланс:"+(balance+refill+bonus));
+        System.out.println("Баланс:" + (balance + refill + bonus));
     }
 }
